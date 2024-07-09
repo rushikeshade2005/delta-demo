@@ -1,2 +1,2 @@
 # delta-demo
-This is a new first create repository on github
+This is a new first create repository on github.
